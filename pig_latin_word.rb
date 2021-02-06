@@ -3,6 +3,8 @@
 # - for words that start with a nonvowel, move all letters before the first vowel to the end of the word and add 'ay'
 
 def pig_latin_word(word)
+  vowels = 'aeiou'
+
 
 end
 
